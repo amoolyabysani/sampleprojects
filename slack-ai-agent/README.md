@@ -1,4 +1,4 @@
-slack-ai-agent 
+#slack-ai-agent 
 An intelligent Slack bot that automatically researches new community members and analyzes their fit for your commercial product using Google Gemini and Langchain.
 
 Features
